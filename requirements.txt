@@ -1,0 +1,2 @@
+“This project does not require external dependencies because it uses Python’s built-in regex library.”
+python>=3.8
